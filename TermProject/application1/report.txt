@@ -1,0 +1,12 @@
+Application 1:
+
+Intro: The provided code implements a hash table data structure to store and manage student data. The student data includes an ID and age for each student
+
+Functions:
+
+description and time complexity are part of the commented code
+
+Justification: The hash table was chosen as the data structure because it provides efficient and eeay operations for insertion, deletion, and search.
+The chaining method is used to handle collisions, which allows for a simple way to manage the hash table when collisions occur.
+
+A binary search tree can also be used to efficiently do operations such as insertion, deletion, and search. It has a time complexity of O(log n)
